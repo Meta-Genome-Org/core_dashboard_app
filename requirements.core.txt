@@ -1,3 +1,3 @@
 core-main-app==2.2.*
 core-explore-common-app==2.2.*
-git+https://github.com/Meta-Genome-Org/core_dashboard_common_app@workspace_add_id#egg=core_dashboard_common_app
+git+https://github.com/Meta-Genome-Org/core_dashboard_common_app#egg=core_dashboard_common_app
